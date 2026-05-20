@@ -5,8 +5,7 @@
   "assets": {
   "binding": "ASSETS",
   "directory": ".output/public",
-  "html_handling": "auto",
-  "navigation_prefers_asset_serving": false
+  "html_handling": "none",
 },
   "compatibility_date": "2025-05-08",
   "compatibility_flags": [
